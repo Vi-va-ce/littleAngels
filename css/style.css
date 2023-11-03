@@ -12398,12 +12398,12 @@ h5,
 
 .colorlib-nav-toggle.active i::before,
 .colorlib-nav-toggle.active i::after {
-  background: #fff;
+  background: #FF69B4;
 }
 
 .colorlib-nav-toggle.dark.active i::before,
 .colorlib-nav-toggle.dark.active i::after {
-  background: #fff;
+  background: #FF69B4;
 }
 
 .colorlib-nav-toggle:hover,
@@ -12418,11 +12418,11 @@ h5,
   display: inline-block;
   width: 20px;
   height: 2px;
-  color: #fff;
+  color: #FF69B4;
   font: bold 14px/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
-  background: #fff;
+  background: #FF69B4;
   -webkit-transition: all .2s ease-out;
   -o-transition: all .2s ease-out;
   transition: all .2s ease-out;
@@ -12433,7 +12433,7 @@ h5,
   content: '';
   width: 20px;
   height: 2px;
-  background: #fff;
+  background: #FF69B4;
   position: absolute;
   left: 0;
   -moz-transition: all 0.2s ease;
