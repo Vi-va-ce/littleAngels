@@ -70,7 +70,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #6c757d;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -12091,7 +12091,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #fff;
+  color: #FF69B4;
 }
 
 a:hover,
@@ -12537,7 +12537,7 @@ h5,
 
 .ftco-about .text h2 span {
   font-weight: 900;
-  color: #f3c623;
+  color: #FF69B4;
 }
 
 .ftco-about .team-wrap .team {
@@ -12582,26 +12582,26 @@ h5,
 }
 
 .btn.btn-primary {
-  background: #f3c623;
-  border: 1px solid #f3c623;
+  background: #FF69B4;
+  border: 1px solid #FF69B4;
   color: #000000;
 }
 
 .btn.btn-primary:hover {
-  border: 1px solid #f3c623;
+  border: 1px solid #FF69B4;
   background: transparent;
-  color: #f3c623;
+  color: #FF69B4;
 }
 
 .btn.btn-primary.btn-outline-primary {
-  border: 1px solid #f3c623;
+  border: 1px solid #FF69B4;
   background: transparent;
-  color: #f3c623;
+  color: #FF69B4;
 }
 
 .btn.btn-primary.btn-outline-primary:hover {
   border: 1px solid transparent;
-  background: #f3c623;
+  background: #FF69B4;
   color: #fff;
 }
 
@@ -12634,11 +12634,11 @@ h5,
 }
 
 .portfolio-wrap .img .icon:hover {
-  border-color: #f3c623;
+  border-color: #FF69B4;
 }
 
 .portfolio-wrap .img .icon:hover span {
-  color: #f3c623;
+  color: #FF69B4;
 }
 
 .portfolio-wrap .img:hover .icon {
@@ -12743,7 +12743,7 @@ h5,
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 3px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #FF69B4;
   font-weight: 600;
 }
 
@@ -12761,7 +12761,7 @@ h5,
 }
 
 .portfolio-wrap-2 .text h2 a {
-  color: #fff;
+  color: #F2AA4CFF;
   padding-bottom: 5px;
 }
 
@@ -12780,9 +12780,9 @@ h5,
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 3px;
-  color: #f3c623;
+  color: #FF69B4;
   font-weight: 700;
-  border: 1px solid #f3c623;
+  border: 1px solid #FF69B4;
   padding: 2px 5px;
 }
 
@@ -12824,8 +12824,8 @@ h5,
 }
 
 .single .img-single {
-  width: 100%;
-  height: 1500px;
+  width: 110%;
+  height: 700px;
 }
 
 @media (max-width: 991.98px) {
@@ -12910,9 +12910,9 @@ h5,
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 3px;
-  color: #f3c623;
+  color: #FF69B4;
   font-weight: 700;
-  border: 1px solid #f3c623;
+  border: 1px solid #FF69B4;
   padding: 2px 5px;
 }
 
@@ -12964,7 +12964,7 @@ textarea.form-control {
 }
 
 .about-author {
-  background: #000000;
+  background: #fff;
   width: 100%;
 }
 
@@ -13056,7 +13056,7 @@ textarea.form-control {
 }
 
 .bg-primary {
-  background: #f3c623 !important;
+  background: #FF69B4 !important;
 }
 
 .image-popup {
@@ -13158,10 +13158,10 @@ textarea.form-control {
 
 .contactForm .form-control {
   border: none;
-  background: transparent !important;
+  background: #6c757d !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
   padding: 0;
-  color: rgba(255, 255, 255, 0.7) !important;
+  color: #000 !important;
   font-size: 14px;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -13290,7 +13290,7 @@ textarea.form-control {
 
 .comment-list li .comment-body .reply:hover {
   color: #000000;
-  background: #f3c623;
+  background: #FF69B4;
 }
 
 #ftco-loader {
